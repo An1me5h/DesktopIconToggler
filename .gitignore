@@ -1,0 +1,30 @@
+# Build outputs
+bin/
+obj/
+
+# Release binaries (distribute via GitHub Releases instead)
+release/
+
+# Published output
+**/publish/
+
+# Compiled executables
+*.exe
+*.pdb
+
+# IDE / editor
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Empty / junk folders
+Newfolde/
+
+# Installer binaries
+installer/DesktopIconToggler_Setup.exe
